@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="1">Gamification in teaching works best in digital environments</statement>
+  <statement id="2">Gamification in teaching works best in a face-to-face environment</statement>
+  <statement id="3">Gamification is best for teaching when it involves a set of rules</statement>
+  <statement id="4">Gamification is best for teaching when it involves free-play</statement>
+  <statement id="5">Gamification is best for teaching when it is based on a storyline  i.e. scenario</statement>
+  <statement id="6">Gamification is more engaging when the student can participate through anonymous characters</statement>
+  <statement id="7">It would be better to set static rules of the game and not change them</statement>
+  <statement id="8">It would be better to adapt the game rules according to the game progression</statement>
+  <statement id="9">Gamification in teaching is effective for entertaining and having fun</statement>
+  <statement id="10">Gamification in teaching is effective for assessing students</statement>
+  <statement id="11">Gamification in teaching is effective for engaging and motivating students</statement>
+  <statement id="12">Gamification in teaching is effective for a core course</statement>
+  <statement id="13">Gamification in teaching is effective for extra-curricular activity (not part of the core course)</statement>
+  <statement id="14">Gamification is engaging when it is related to course marks</statement>
+  <statement id="15">Gamification is effective for formative assessment, i.e. assessing student throughout the process (credited)</statement>
+  <statement id="16">Gamification is effective for summative assessment, i.e. assessing students at the end (credited)</statement>
+  <statement id="17">Gamification is engaging when related to non-monetary rewards: point, badges</statement>
+  <statement id="18">Gamification is engaging when related to monetary rewards – i.e. coffee vouchers</statement>
+  <statement id="19">Gamification in teaching focuses on enabling students to achieve institutional goals</statement>
+  <statement id="20">Gamification is effective when there is a challenge for the individual student</statement> 
+  <statement id="21">Gamification is effective for enhancing understanding of complex concepts</statement>
+  <statement id="22">Gamification is effective with theoretical concepts</statement>
+  <statement id="23">Gamification is effective in practice-based learning</statement> 
+  <statement id="24">Gamification is effective in developing the student’s learning</statement>
+  <statement id="25">Gamification is effective for social bonding between students</statement>
+  <statement id="26">Gamification is effective for changing in class social behaviours positively, i.e. increase attendance of class</statement> 
+  <statement id="27">Gamification improves the participation of students</statement> 
+  <statement id="28">Gamification is effective with teams</statement>
+  <statement id="29">Gamification is effective with students who are already friends</statement>
+  <statement id="30">Gamification is effective when students work individually</statement>
+  <statement id="31">Gamification in education is effective with small classes (not more than 10)</statement>   
+  <statement id="32">Gamification in teaching is effective with big classes (more than 10)</statement>  
+  <statement id="33">Gamification is effective if it includes collaborative approaches</statement> 
+  <statement id="34">Gamification is effective if it includes competitive approaches</statement>
+  <statement id="35">Gamification is effective if it includes balanced approaches of collaboration and competition</statement>
+  <statement id="36">Gamification is collaborating to achieve a common goal</statement> 
+  <statement id="37">Gamification is competing with others to win and others lose</statement>
+  <statement id="38">Gamification is effective if it leads to common end goal</statement>
+  <statement id="39">Gamification is effective if it leads to different individual end goal</statement> 
+  <statement id="40">Collaborative gamification can be negatively affected by free riders, i.e. under-performers within a group</statement>
+  <statement id="41">Gamification in teaching is effective if the teacher is actively involved in the gamification process, i.e. the teacher as a player in the game</statement> 
+  <statement id="42">Gamification in teaching is effective if the teacher is directing the students in the game, i.e. the teacher as a moderator</statement> 
+  <statement id="43">Gamification in teaching is effective if the teacher observes the gamification process in a non-intrusive way</statement> 
+  <statement id="44">Teacher’s participation in gamified activities is effective when activities are done online</statement> 
+  <statement id="45">Teacher’s participation in gamified activities is effective when activities are done face-to-face</statement>
+  <statement id="46">Gamification in teaching is effective when it is used through the whole unit</statement>
+  <statement id="47">Gamification in teaching is effective when it is used occasionally</statement>
+</statements>
