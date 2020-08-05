@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">Please note: This is just a demo and data will stored for trial.{br}{br}Comments and bug reports are highly welcome.{br}{br}Please click on the continue-button.</item>
+  <item id="welcomeText">Please note: This is just a demo and data will be stored for trial.{br}{br}Comments and bug reports are highly welcome.{br}{br}Please click on the continue-button.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
@@ -74,7 +74,9 @@
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
-  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
+  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}
+<!-- {I}Tip: This is an optional step and you can deactivate it in your own survey.{i} -->
+</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
