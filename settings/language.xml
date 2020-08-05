@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">Please note: This is just a demo and data will stored for trail and not for real study.{br}{br}Comments and bug reports are highly welcome.{br}{br}Please click on the continue-button.</item>
+  <item id="welcomeText">Please note: This is just a demo and data will stored for trial.{br}{br}Comments and bug reports are highly welcome.{br}{br}Please click on the continue-button.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
