@@ -62,15 +62,15 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is about introducing gamified activities in class. I am interested in investigating your perspectives towards gamified activities in class (speciafically, collaborative and competitive gamified activities.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+  <item id="introText">This study is about applying gamified activities in class. I am interested in investigating your perspective towards gamified activities in class (speciafically, collaborative and competitive gamified activities).{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
-  <item id="step1Text">Read the following statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or press 1 (for Disagree), 2 (for Neutral), 3 (for Agree)on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
+  <item id="step1Text">Read the following statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or press 1 (for Disagree), 2 (for Neutral), 3 (for Agree) on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
-  <item id="step2Text">Take the cards from the "AGREE"-pile and read them again. You can scroll through the statements by using the scroll bar. Next, select the two statements you most agree with and place them on right side of the score sheet below the "+5".{br}{br}Now read the cards in the "DISAGREE"-pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-5".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+4"/"-4". Follow this procedure for all cards in the "AGREE" and "DISAGREE" piles.{br}{br}Finally, read the "NEUTRAL" cards again and arrange them in the remaining open boxes of the score sheet.</item>
+  <item id="step2Text">Take the cards from the "AGREE" pile and read them again. You can scroll through the statements by using the scroll bar. Next, select the two statements you most agree with and place them on right side of the score sheet below the "+5".{br}{br}Now read the cards in the "DISAGREE" pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-5".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+4"/"-4". Follow this procedure for all cards in the "AGREE" and "DISAGREE" piles.{br}{br}Finally, read the "NEUTRAL" cards again and arrange them in the remaining open boxes of the score sheet.</item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
