@@ -54,14 +54,14 @@
          <note>Please select your gender.</note>
          <input type="radio" required="true">female;male</input>
 
-         <label>Please answer the following questions.</label>
-         <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
+       <!--  <label>Please answer the following questions.</label>
+         <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input> -->
 
-         <label>What kind of transportation do you use?</label>
-         <input type="checkbox" required="false">Car;Railroad;Bike</input>
+         <label>What level of degree do you teach?</label>
+         <input type="checkbox" required="false">Bachelor;Master;PhD and Higher</input>
 
-         <label>What kind of transportation do you prefer?</label>
-         <input type="select" required="false">Car;Railroad;Bike</input>
+         <label>Which level of degree do you prefer to use gamified activities?</label>
+         <input type="select" required="false">Bachelor;Master;PhD and Higher;Bachelor and Master;All</input>
 
          <label>Comments</label>
          <input type="textarea" required="false"></input>
