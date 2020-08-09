@@ -52,7 +52,7 @@
 
          <label>Gender*</label>
          <note>Please select your gender.</note>
-         <input type="radio" required="true">female;male</input>
+         <input type="radio" required="true">female;male;other;prefer not to say;</input>
 
        <!--  <label>Please answer the following questions.</label>
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input> -->
