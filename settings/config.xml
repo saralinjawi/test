@@ -52,7 +52,7 @@
 
          <label>Gender*</label>
          <note>Please select your gender.</note>
-         <input type="radio" required="true">female;male;other;prefer not to say;</input>
+         <input type="radio" required="true">female;male;other;prefer not to say</input>
 
        <!--  <label>Please answer the following questions.</label>
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input> -->
@@ -63,7 +63,7 @@
          <label>Which level of degree do you prefer to use gamified activities?</label>
          <input type="select" required="false">Bachelor;Master;PhD and Higher;Bachelor and Master;All</input>
 
-         <label>Comments</label>
+         <label> Please add any statements about gamification that you felt were missing or add any comments you would like to share on either using gamification in your teaching or on this Q sort activity</label>
          <input type="textarea" required="false"></input>
 
          <note bg="false">All fields marked with an * are mandatory.</note>
