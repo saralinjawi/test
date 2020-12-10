@@ -48,7 +48,7 @@
       <item id="form">
 
           <label>Name</label>
-         <note>Please enter your Name(optional).</note>
+         <note>Please enter your Name (optional.</note>
          <input type="text" required="false"></input>
 
          <label>Age*</label>
@@ -63,12 +63,16 @@
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input> -->
 
          <label>What level of degree do you teach?</label>
-         <input type="checkbox" required="false">Bachelor;Master;PhD and Higher</input>
+         <input type="checkbox" required="false">Bachelor;Master;Ph.D. and Higher</input>
 
-         <label>Which level of degree do you prefer to use gamified activities?</label>
+         <label>With which level of degree do you prefer to use the gamified activities?</label>
          <input type="select" required="false">Bachelor;Master;PhD and Higher;Bachelor and Master;All</input>
 
-         <label> Please add any statements about gamification that you felt were missing or add any comments you would like to share on either using gamification in your teaching or on this Q sort activity</label>
+         <label>What elements of gamification do you use in your teaching? (Check all applicable items)</label>
+         <input type="select" required="false">Point;Badges;Leader Boards;Rewards;Avatars;levels;competition;collaboration;Narrative (Storytelling; Others (please indicate)</input>
+         <input type="textarea" required="false"></input>
+
+         <label> Please add any statements about gamification that you felt were missing, or add any comments you would like to share on either using gamification in your teaching or on this Q sort activity</label>
          <input type="textarea" required="false"></input>
 
          <note bg="false">All fields marked with an * are mandatory.</note>
