@@ -62,13 +62,13 @@
        <!--  <label>Please answer the following questions</label>
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input> -->
 
-         <label>What level of degree do you teach? *</label>
+         <label>Which level of degree do you teach? *</label>
          <input type="checkbox" required="false">Bachelor;Master;Ph.D. and Higher</input>
 
          <label>With which level of degree do you prefer to use the gamified activities? *</label>
          <input type="select" required="false">Bachelor;Master;PhD and Higher;Bachelor and Master;All</input>
 
-         <label>What elements of gamification do you use in your teaching? (Check all applicable items) *</label>
+         <label>Which elements of gamification do you use in your teaching? (Check all applicable items) *</label>
          <input type="checkbox" required="false">Point;Badges;Leader Boards;Rewards;Avatars;levels;competition;collaboration;Narrative (Storytelling); Others (please specify)</input>
          <input type="textarea" required="false"></input>
 
