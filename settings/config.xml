@@ -46,6 +46,11 @@
       <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
       <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
       <item id="form">
+
+          <label>Name</label>
+         <note>Please enter your Name(optional).</note>
+         <input type="text" required="false"></input>
+
          <label>Age*</label>
          <note>Please enter your year of birth (YYYY, eg. 1980).</note>
          <input type="text" required="true" maxlength="4" restricted="0-9"></input>
